@@ -1,1 +1,9 @@
-This is a testing read me file
+This is a Android Tamil Application.
+
+This is using the CSS technology and WebView to show Tamil fonts as there are not default support for Tamil in Android mobiles yet.
+
+Hope others can use this same technology to build application using WebView.
+
+Note: There is a bug with Android Browser 2.1, so this technology won't be effective for Android 2.1 mobiles.
+
+contact: mayu3g AT gmail.com
